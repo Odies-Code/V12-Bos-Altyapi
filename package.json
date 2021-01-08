@@ -1,0 +1,36 @@
+{
+    "name": "discord.js-dashboard",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Odies-Code/V12-Bos-Altyapi.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Odies-Code/V12-Bos-Altyapiissues"
+    },
+    "homepage": "https://github.com/Odies-Code/V12-Bos-Altyapi#readme",
+    "dependencies": {
+        "discord.js": "^12.5.1",
+        "ejs": "^2.6.1",
+        "express": "^4.17.1",
+        "express-session": "^1.15.6",
+        "form-data": "^2.3.2",
+        "moment": "^2.29.1",
+        "node-fetch": "^2.2.0",
+        "odies.database": "^1.1.8",
+        "odies.filter": "^1.0.3",
+        "odies.handlers": "^1.0.7",
+        "quick.hook": "^1.5.1",
+        "uid-safe": "^2.1.5",
+        "v30db": "^0.1.2"
+    }
+}
