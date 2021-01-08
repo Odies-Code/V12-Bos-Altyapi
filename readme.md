@@ -1,6 +1,6 @@
-## Odies modülleri kullanılarak yapılmıştır. Modüllere güncelleme geldikçe altyapı güncellenecektir.
+### Odies modülleri kullanılarak yapılmıştır. Modüllere güncelleme geldikçe altyapı güncellenecektir.
 
-## Config dosyasını ayarlamanız yeterlidir
+### Config dosyasını ayarlamanız yeterlidir
 
 ### İnceleyiniz:
 
