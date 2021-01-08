@@ -1,8 +1,9 @@
 # Odies modülleri kullanılarak yapılmıştır. Modüllere güncelleme geldikçe altyapı güncellenecektir.
 
 # Config dosyasını ayarlamanız yeterlidir
----
-## // Komut taslağı //
+
+
+### // Komut taslağı //
 
 module.exports = {
     config: {
@@ -15,12 +16,11 @@ module.exports = {
         message.channel.send('Bu boş bir komut')
     }
 }
----
-## // Event taslağı //
+
+### // Event taslağı //
 
 module.exports = client => {
 
 
 
 }
----
