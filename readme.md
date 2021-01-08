@@ -4,6 +4,6 @@
 
 ### İnceleyiniz:
 
-[odies.handlers](https://www.npmjs.com/package/odies.handlers)
-[odies.database](https://www.npmjs.com/package/odies.database)
-[odies.filter](https://www.npmjs.com/package/odies.filter)
++[odies.handlers](https://www.npmjs.com/package/odies.handlers)
++[odies.database](https://www.npmjs.com/package/odies.database)
++[odies.filter](https://www.npmjs.com/package/odies.filter)
